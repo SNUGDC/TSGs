@@ -48,10 +48,10 @@
   <ItemGroup>
      <Compile Include="Assets\Scene\Entry\EntryController.cs" />
      <Compile Include="Assets\Scene\Inventory\InventoryController.cs" />
-     <Compile Include="Assets\Scene\Main\MainController.cs" />
      <Compile Include="Assets\Scene\Setting\SettingController.cs" />
      <Compile Include="Assets\Scene\Stage\StageController.cs" />
      <Compile Include="Assets\Scene\StageSelect\StageSelectController.cs" />
+     <Compile Include="Assets\Scene\Start\StartController.cs" />
      <Compile Include="Assets\Scene\Title\TitleController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
