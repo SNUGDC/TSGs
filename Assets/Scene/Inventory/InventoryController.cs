@@ -1,6 +1,5 @@
 ﻿using UnityEngine;
 using System.Collections;
-using UnityUI;
 
 public class InventoryController : MonoBehaviour 
 {
