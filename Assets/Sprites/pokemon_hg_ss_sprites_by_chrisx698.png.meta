@@ -1,0 +1,5555 @@
+fileFormatVersion: 2
+guid: b162c97b453775d40bde5b3f34c47601
+timeCreated: 1439391768
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pokemon_hg_ss_sprites_by_chrisx698_0
+    21300002: pokemon_hg_ss_sprites_by_chrisx698_1
+    21300004: pokemon_hg_ss_sprites_by_chrisx698_2
+    21300006: pokemon_hg_ss_sprites_by_chrisx698_3
+    21300008: pokemon_hg_ss_sprites_by_chrisx698_4
+    21300010: pokemon_hg_ss_sprites_by_chrisx698_5
+    21300012: pokemon_hg_ss_sprites_by_chrisx698_6
+    21300014: pokemon_hg_ss_sprites_by_chrisx698_7
+    21300016: pokemon_hg_ss_sprites_by_chrisx698_8
+    21300018: pokemon_hg_ss_sprites_by_chrisx698_9
+    21300020: pokemon_hg_ss_sprites_by_chrisx698_10
+    21300022: pokemon_hg_ss_sprites_by_chrisx698_11
+    21300024: pokemon_hg_ss_sprites_by_chrisx698_12
+    21300026: pokemon_hg_ss_sprites_by_chrisx698_13
+    21300028: pokemon_hg_ss_sprites_by_chrisx698_14
+    21300030: pokemon_hg_ss_sprites_by_chrisx698_15
+    21300032: pokemon_hg_ss_sprites_by_chrisx698_16
+    21300034: pokemon_hg_ss_sprites_by_chrisx698_17
+    21300036: pokemon_hg_ss_sprites_by_chrisx698_18
+    21300038: pokemon_hg_ss_sprites_by_chrisx698_19
+    21300040: pokemon_hg_ss_sprites_by_chrisx698_20
+    21300042: pokemon_hg_ss_sprites_by_chrisx698_21
+    21300044: pokemon_hg_ss_sprites_by_chrisx698_22
+    21300046: pokemon_hg_ss_sprites_by_chrisx698_23
+    21300048: pokemon_hg_ss_sprites_by_chrisx698_24
+    21300050: pokemon_hg_ss_sprites_by_chrisx698_25
+    21300052: pokemon_hg_ss_sprites_by_chrisx698_26
+    21300054: pokemon_hg_ss_sprites_by_chrisx698_27
+    21300056: pokemon_hg_ss_sprites_by_chrisx698_28
+    21300058: pokemon_hg_ss_sprites_by_chrisx698_29
+    21300060: pokemon_hg_ss_sprites_by_chrisx698_30
+    21300062: pokemon_hg_ss_sprites_by_chrisx698_31
+    21300064: pokemon_hg_ss_sprites_by_chrisx698_32
+    21300066: pokemon_hg_ss_sprites_by_chrisx698_33
+    21300068: pokemon_hg_ss_sprites_by_chrisx698_34
+    21300070: pokemon_hg_ss_sprites_by_chrisx698_35
+    21300072: pokemon_hg_ss_sprites_by_chrisx698_36
+    21300074: pokemon_hg_ss_sprites_by_chrisx698_37
+    21300076: pokemon_hg_ss_sprites_by_chrisx698_38
+    21300078: pokemon_hg_ss_sprites_by_chrisx698_39
+    21300080: pokemon_hg_ss_sprites_by_chrisx698_40
+    21300082: pokemon_hg_ss_sprites_by_chrisx698_41
+    21300084: pokemon_hg_ss_sprites_by_chrisx698_42
+    21300086: pokemon_hg_ss_sprites_by_chrisx698_43
+    21300088: pokemon_hg_ss_sprites_by_chrisx698_44
+    21300090: pokemon_hg_ss_sprites_by_chrisx698_45
+    21300092: pokemon_hg_ss_sprites_by_chrisx698_46
+    21300094: pokemon_hg_ss_sprites_by_chrisx698_47
+    21300096: pokemon_hg_ss_sprites_by_chrisx698_48
+    21300098: pokemon_hg_ss_sprites_by_chrisx698_49
+    21300100: pokemon_hg_ss_sprites_by_chrisx698_50
+    21300102: pokemon_hg_ss_sprites_by_chrisx698_51
+    21300104: pokemon_hg_ss_sprites_by_chrisx698_52
+    21300106: pokemon_hg_ss_sprites_by_chrisx698_53
+    21300108: pokemon_hg_ss_sprites_by_chrisx698_54
+    21300110: pokemon_hg_ss_sprites_by_chrisx698_55
+    21300112: pokemon_hg_ss_sprites_by_chrisx698_56
+    21300114: pokemon_hg_ss_sprites_by_chrisx698_57
+    21300116: pokemon_hg_ss_sprites_by_chrisx698_58
+    21300118: pokemon_hg_ss_sprites_by_chrisx698_59
+    21300120: pokemon_hg_ss_sprites_by_chrisx698_60
+    21300122: pokemon_hg_ss_sprites_by_chrisx698_61
+    21300124: pokemon_hg_ss_sprites_by_chrisx698_62
+    21300126: pokemon_hg_ss_sprites_by_chrisx698_63
+    21300128: pokemon_hg_ss_sprites_by_chrisx698_64
+    21300130: pokemon_hg_ss_sprites_by_chrisx698_65
+    21300132: pokemon_hg_ss_sprites_by_chrisx698_66
+    21300134: pokemon_hg_ss_sprites_by_chrisx698_67
+    21300136: pokemon_hg_ss_sprites_by_chrisx698_68
+    21300138: pokemon_hg_ss_sprites_by_chrisx698_69
+    21300140: pokemon_hg_ss_sprites_by_chrisx698_70
+    21300142: pokemon_hg_ss_sprites_by_chrisx698_71
+    21300144: pokemon_hg_ss_sprites_by_chrisx698_72
+    21300146: pokemon_hg_ss_sprites_by_chrisx698_73
+    21300148: pokemon_hg_ss_sprites_by_chrisx698_74
+    21300150: pokemon_hg_ss_sprites_by_chrisx698_75
+    21300152: pokemon_hg_ss_sprites_by_chrisx698_76
+    21300154: pokemon_hg_ss_sprites_by_chrisx698_77
+    21300156: pokemon_hg_ss_sprites_by_chrisx698_78
+    21300158: pokemon_hg_ss_sprites_by_chrisx698_79
+    21300160: pokemon_hg_ss_sprites_by_chrisx698_80
+    21300162: pokemon_hg_ss_sprites_by_chrisx698_81
+    21300164: pokemon_hg_ss_sprites_by_chrisx698_82
+    21300166: pokemon_hg_ss_sprites_by_chrisx698_83
+    21300168: pokemon_hg_ss_sprites_by_chrisx698_84
+    21300170: pokemon_hg_ss_sprites_by_chrisx698_85
+    21300172: pokemon_hg_ss_sprites_by_chrisx698_86
+    21300174: pokemon_hg_ss_sprites_by_chrisx698_87
+    21300176: pokemon_hg_ss_sprites_by_chrisx698_88
+    21300178: pokemon_hg_ss_sprites_by_chrisx698_89
+    21300180: pokemon_hg_ss_sprites_by_chrisx698_90
+    21300182: pokemon_hg_ss_sprites_by_chrisx698_91
+    21300184: pokemon_hg_ss_sprites_by_chrisx698_92
+    21300186: pokemon_hg_ss_sprites_by_chrisx698_93
+    21300188: pokemon_hg_ss_sprites_by_chrisx698_94
+    21300190: pokemon_hg_ss_sprites_by_chrisx698_95
+    21300192: pokemon_hg_ss_sprites_by_chrisx698_96
+    21300194: pokemon_hg_ss_sprites_by_chrisx698_97
+    21300196: pokemon_hg_ss_sprites_by_chrisx698_98
+    21300198: pokemon_hg_ss_sprites_by_chrisx698_99
+    21300200: pokemon_hg_ss_sprites_by_chrisx698_100
+    21300202: pokemon_hg_ss_sprites_by_chrisx698_101
+    21300204: pokemon_hg_ss_sprites_by_chrisx698_102
+    21300206: pokemon_hg_ss_sprites_by_chrisx698_103
+    21300208: pokemon_hg_ss_sprites_by_chrisx698_104
+    21300210: pokemon_hg_ss_sprites_by_chrisx698_105
+    21300212: pokemon_hg_ss_sprites_by_chrisx698_106
+    21300214: pokemon_hg_ss_sprites_by_chrisx698_107
+    21300216: pokemon_hg_ss_sprites_by_chrisx698_108
+    21300218: pokemon_hg_ss_sprites_by_chrisx698_109
+    21300220: pokemon_hg_ss_sprites_by_chrisx698_110
+    21300222: pokemon_hg_ss_sprites_by_chrisx698_111
+    21300224: pokemon_hg_ss_sprites_by_chrisx698_112
+    21300226: pokemon_hg_ss_sprites_by_chrisx698_113
+    21300228: pokemon_hg_ss_sprites_by_chrisx698_114
+    21300230: pokemon_hg_ss_sprites_by_chrisx698_115
+    21300232: pokemon_hg_ss_sprites_by_chrisx698_116
+    21300234: pokemon_hg_ss_sprites_by_chrisx698_117
+    21300236: pokemon_hg_ss_sprites_by_chrisx698_118
+    21300238: pokemon_hg_ss_sprites_by_chrisx698_119
+    21300240: pokemon_hg_ss_sprites_by_chrisx698_120
+    21300242: pokemon_hg_ss_sprites_by_chrisx698_121
+    21300244: pokemon_hg_ss_sprites_by_chrisx698_122
+    21300246: pokemon_hg_ss_sprites_by_chrisx698_123
+    21300248: pokemon_hg_ss_sprites_by_chrisx698_124
+    21300250: pokemon_hg_ss_sprites_by_chrisx698_125
+    21300252: pokemon_hg_ss_sprites_by_chrisx698_126
+    21300254: pokemon_hg_ss_sprites_by_chrisx698_127
+    21300256: pokemon_hg_ss_sprites_by_chrisx698_128
+    21300258: pokemon_hg_ss_sprites_by_chrisx698_129
+    21300260: pokemon_hg_ss_sprites_by_chrisx698_130
+    21300262: pokemon_hg_ss_sprites_by_chrisx698_131
+    21300264: pokemon_hg_ss_sprites_by_chrisx698_132
+    21300266: pokemon_hg_ss_sprites_by_chrisx698_133
+    21300268: pokemon_hg_ss_sprites_by_chrisx698_134
+    21300270: pokemon_hg_ss_sprites_by_chrisx698_135
+    21300272: pokemon_hg_ss_sprites_by_chrisx698_136
+    21300274: pokemon_hg_ss_sprites_by_chrisx698_137
+    21300276: pokemon_hg_ss_sprites_by_chrisx698_138
+    21300278: pokemon_hg_ss_sprites_by_chrisx698_139
+    21300280: pokemon_hg_ss_sprites_by_chrisx698_140
+    21300282: pokemon_hg_ss_sprites_by_chrisx698_141
+    21300284: pokemon_hg_ss_sprites_by_chrisx698_142
+    21300286: pokemon_hg_ss_sprites_by_chrisx698_143
+    21300288: pokemon_hg_ss_sprites_by_chrisx698_144
+    21300290: pokemon_hg_ss_sprites_by_chrisx698_145
+    21300292: pokemon_hg_ss_sprites_by_chrisx698_146
+    21300294: pokemon_hg_ss_sprites_by_chrisx698_147
+    21300296: pokemon_hg_ss_sprites_by_chrisx698_148
+    21300298: pokemon_hg_ss_sprites_by_chrisx698_149
+    21300300: pokemon_hg_ss_sprites_by_chrisx698_150
+    21300302: pokemon_hg_ss_sprites_by_chrisx698_151
+    21300304: pokemon_hg_ss_sprites_by_chrisx698_152
+    21300306: pokemon_hg_ss_sprites_by_chrisx698_153
+    21300308: pokemon_hg_ss_sprites_by_chrisx698_154
+    21300310: pokemon_hg_ss_sprites_by_chrisx698_155
+    21300312: pokemon_hg_ss_sprites_by_chrisx698_156
+    21300314: pokemon_hg_ss_sprites_by_chrisx698_157
+    21300316: pokemon_hg_ss_sprites_by_chrisx698_158
+    21300318: pokemon_hg_ss_sprites_by_chrisx698_159
+    21300320: pokemon_hg_ss_sprites_by_chrisx698_160
+    21300322: pokemon_hg_ss_sprites_by_chrisx698_161
+    21300324: pokemon_hg_ss_sprites_by_chrisx698_162
+    21300326: pokemon_hg_ss_sprites_by_chrisx698_163
+    21300328: pokemon_hg_ss_sprites_by_chrisx698_164
+    21300330: pokemon_hg_ss_sprites_by_chrisx698_165
+    21300332: pokemon_hg_ss_sprites_by_chrisx698_166
+    21300334: pokemon_hg_ss_sprites_by_chrisx698_167
+    21300336: pokemon_hg_ss_sprites_by_chrisx698_168
+    21300338: pokemon_hg_ss_sprites_by_chrisx698_169
+    21300340: pokemon_hg_ss_sprites_by_chrisx698_170
+    21300342: pokemon_hg_ss_sprites_by_chrisx698_171
+    21300344: pokemon_hg_ss_sprites_by_chrisx698_172
+    21300346: pokemon_hg_ss_sprites_by_chrisx698_173
+    21300348: pokemon_hg_ss_sprites_by_chrisx698_174
+    21300350: pokemon_hg_ss_sprites_by_chrisx698_175
+    21300352: pokemon_hg_ss_sprites_by_chrisx698_176
+    21300354: pokemon_hg_ss_sprites_by_chrisx698_177
+    21300356: pokemon_hg_ss_sprites_by_chrisx698_178
+    21300358: pokemon_hg_ss_sprites_by_chrisx698_179
+    21300360: pokemon_hg_ss_sprites_by_chrisx698_180
+    21300362: pokemon_hg_ss_sprites_by_chrisx698_181
+    21300364: pokemon_hg_ss_sprites_by_chrisx698_182
+    21300366: pokemon_hg_ss_sprites_by_chrisx698_183
+    21300368: pokemon_hg_ss_sprites_by_chrisx698_184
+    21300370: pokemon_hg_ss_sprites_by_chrisx698_185
+    21300372: pokemon_hg_ss_sprites_by_chrisx698_186
+    21300374: pokemon_hg_ss_sprites_by_chrisx698_187
+    21300376: pokemon_hg_ss_sprites_by_chrisx698_188
+    21300378: pokemon_hg_ss_sprites_by_chrisx698_189
+    21300380: pokemon_hg_ss_sprites_by_chrisx698_190
+    21300382: pokemon_hg_ss_sprites_by_chrisx698_191
+    21300384: pokemon_hg_ss_sprites_by_chrisx698_192
+    21300386: pokemon_hg_ss_sprites_by_chrisx698_193
+    21300388: pokemon_hg_ss_sprites_by_chrisx698_194
+    21300390: pokemon_hg_ss_sprites_by_chrisx698_195
+    21300392: pokemon_hg_ss_sprites_by_chrisx698_196
+    21300394: pokemon_hg_ss_sprites_by_chrisx698_197
+    21300396: pokemon_hg_ss_sprites_by_chrisx698_198
+    21300398: pokemon_hg_ss_sprites_by_chrisx698_199
+    21300400: pokemon_hg_ss_sprites_by_chrisx698_200
+    21300402: pokemon_hg_ss_sprites_by_chrisx698_201
+    21300404: pokemon_hg_ss_sprites_by_chrisx698_202
+    21300406: pokemon_hg_ss_sprites_by_chrisx698_203
+    21300408: pokemon_hg_ss_sprites_by_chrisx698_204
+    21300410: pokemon_hg_ss_sprites_by_chrisx698_205
+    21300412: pokemon_hg_ss_sprites_by_chrisx698_206
+    21300414: pokemon_hg_ss_sprites_by_chrisx698_207
+    21300416: pokemon_hg_ss_sprites_by_chrisx698_208
+    21300418: pokemon_hg_ss_sprites_by_chrisx698_209
+    21300420: pokemon_hg_ss_sprites_by_chrisx698_210
+    21300422: pokemon_hg_ss_sprites_by_chrisx698_211
+    21300424: pokemon_hg_ss_sprites_by_chrisx698_212
+    21300426: pokemon_hg_ss_sprites_by_chrisx698_213
+    21300428: pokemon_hg_ss_sprites_by_chrisx698_214
+    21300430: pokemon_hg_ss_sprites_by_chrisx698_215
+    21300432: pokemon_hg_ss_sprites_by_chrisx698_216
+    21300434: pokemon_hg_ss_sprites_by_chrisx698_217
+    21300436: pokemon_hg_ss_sprites_by_chrisx698_218
+    21300438: pokemon_hg_ss_sprites_by_chrisx698_219
+    21300440: pokemon_hg_ss_sprites_by_chrisx698_220
+    21300442: pokemon_hg_ss_sprites_by_chrisx698_221
+    21300444: pokemon_hg_ss_sprites_by_chrisx698_222
+    21300446: pokemon_hg_ss_sprites_by_chrisx698_223
+    21300448: pokemon_hg_ss_sprites_by_chrisx698_224
+    21300450: pokemon_hg_ss_sprites_by_chrisx698_225
+    21300452: pokemon_hg_ss_sprites_by_chrisx698_226
+    21300454: pokemon_hg_ss_sprites_by_chrisx698_227
+    21300456: pokemon_hg_ss_sprites_by_chrisx698_228
+    21300458: pokemon_hg_ss_sprites_by_chrisx698_229
+    21300460: pokemon_hg_ss_sprites_by_chrisx698_230
+    21300462: pokemon_hg_ss_sprites_by_chrisx698_231
+    21300464: pokemon_hg_ss_sprites_by_chrisx698_232
+    21300466: pokemon_hg_ss_sprites_by_chrisx698_233
+    21300468: pokemon_hg_ss_sprites_by_chrisx698_234
+    21300470: pokemon_hg_ss_sprites_by_chrisx698_235
+    21300472: pokemon_hg_ss_sprites_by_chrisx698_236
+    21300474: pokemon_hg_ss_sprites_by_chrisx698_237
+    21300476: pokemon_hg_ss_sprites_by_chrisx698_238
+    21300478: pokemon_hg_ss_sprites_by_chrisx698_239
+    21300480: pokemon_hg_ss_sprites_by_chrisx698_240
+    21300482: pokemon_hg_ss_sprites_by_chrisx698_241
+    21300484: pokemon_hg_ss_sprites_by_chrisx698_242
+    21300486: pokemon_hg_ss_sprites_by_chrisx698_243
+    21300488: pokemon_hg_ss_sprites_by_chrisx698_244
+    21300490: pokemon_hg_ss_sprites_by_chrisx698_245
+    21300492: pokemon_hg_ss_sprites_by_chrisx698_246
+    21300494: pokemon_hg_ss_sprites_by_chrisx698_247
+    21300496: pokemon_hg_ss_sprites_by_chrisx698_248
+    21300498: pokemon_hg_ss_sprites_by_chrisx698_249
+    21300500: pokemon_hg_ss_sprites_by_chrisx698_250
+    21300502: pokemon_hg_ss_sprites_by_chrisx698_251
+    21300504: pokemon_hg_ss_sprites_by_chrisx698_252
+    21300506: pokemon_hg_ss_sprites_by_chrisx698_253
+    21300508: pokemon_hg_ss_sprites_by_chrisx698_254
+    21300510: pokemon_hg_ss_sprites_by_chrisx698_255
+    21300512: pokemon_hg_ss_sprites_by_chrisx698_256
+    21300514: pokemon_hg_ss_sprites_by_chrisx698_257
+    21300516: pokemon_hg_ss_sprites_by_chrisx698_258
+    21300518: pokemon_hg_ss_sprites_by_chrisx698_259
+    21300520: pokemon_hg_ss_sprites_by_chrisx698_260
+    21300522: pokemon_hg_ss_sprites_by_chrisx698_261
+    21300524: pokemon_hg_ss_sprites_by_chrisx698_262
+    21300526: pokemon_hg_ss_sprites_by_chrisx698_263
+    21300528: pokemon_hg_ss_sprites_by_chrisx698_264
+    21300530: pokemon_hg_ss_sprites_by_chrisx698_265
+    21300532: pokemon_hg_ss_sprites_by_chrisx698_266
+    21300534: pokemon_hg_ss_sprites_by_chrisx698_267
+    21300536: pokemon_hg_ss_sprites_by_chrisx698_268
+    21300538: pokemon_hg_ss_sprites_by_chrisx698_269
+    21300540: pokemon_hg_ss_sprites_by_chrisx698_270
+    21300542: pokemon_hg_ss_sprites_by_chrisx698_271
+    21300544: pokemon_hg_ss_sprites_by_chrisx698_272
+    21300546: pokemon_hg_ss_sprites_by_chrisx698_273
+    21300548: pokemon_hg_ss_sprites_by_chrisx698_274
+    21300550: pokemon_hg_ss_sprites_by_chrisx698_275
+    21300552: pokemon_hg_ss_sprites_by_chrisx698_276
+    21300554: pokemon_hg_ss_sprites_by_chrisx698_277
+    21300556: pokemon_hg_ss_sprites_by_chrisx698_278
+    21300558: pokemon_hg_ss_sprites_by_chrisx698_279
+    21300560: pokemon_hg_ss_sprites_by_chrisx698_280
+    21300562: pokemon_hg_ss_sprites_by_chrisx698_281
+    21300564: pokemon_hg_ss_sprites_by_chrisx698_282
+    21300566: pokemon_hg_ss_sprites_by_chrisx698_283
+    21300568: pokemon_hg_ss_sprites_by_chrisx698_284
+    21300570: pokemon_hg_ss_sprites_by_chrisx698_285
+    21300572: pokemon_hg_ss_sprites_by_chrisx698_286
+    21300574: pokemon_hg_ss_sprites_by_chrisx698_287
+    21300576: pokemon_hg_ss_sprites_by_chrisx698_288
+    21300578: pokemon_hg_ss_sprites_by_chrisx698_289
+    21300580: pokemon_hg_ss_sprites_by_chrisx698_290
+    21300582: pokemon_hg_ss_sprites_by_chrisx698_291
+    21300584: pokemon_hg_ss_sprites_by_chrisx698_292
+    21300586: pokemon_hg_ss_sprites_by_chrisx698_293
+    21300588: pokemon_hg_ss_sprites_by_chrisx698_294
+    21300590: pokemon_hg_ss_sprites_by_chrisx698_295
+    21300592: pokemon_hg_ss_sprites_by_chrisx698_296
+    21300594: pokemon_hg_ss_sprites_by_chrisx698_297
+    21300596: pokemon_hg_ss_sprites_by_chrisx698_298
+    21300598: pokemon_hg_ss_sprites_by_chrisx698_299
+    21300600: pokemon_hg_ss_sprites_by_chrisx698_300
+    21300602: pokemon_hg_ss_sprites_by_chrisx698_301
+    21300604: pokemon_hg_ss_sprites_by_chrisx698_302
+    21300606: pokemon_hg_ss_sprites_by_chrisx698_303
+    21300608: pokemon_hg_ss_sprites_by_chrisx698_304
+    21300610: pokemon_hg_ss_sprites_by_chrisx698_305
+    21300612: pokemon_hg_ss_sprites_by_chrisx698_306
+    21300614: pokemon_hg_ss_sprites_by_chrisx698_307
+    21300616: pokemon_hg_ss_sprites_by_chrisx698_308
+    21300618: pokemon_hg_ss_sprites_by_chrisx698_309
+    21300620: pokemon_hg_ss_sprites_by_chrisx698_310
+    21300622: pokemon_hg_ss_sprites_by_chrisx698_311
+    21300624: pokemon_hg_ss_sprites_by_chrisx698_312
+    21300626: pokemon_hg_ss_sprites_by_chrisx698_313
+    21300628: pokemon_hg_ss_sprites_by_chrisx698_314
+    21300630: pokemon_hg_ss_sprites_by_chrisx698_315
+    21300632: pokemon_hg_ss_sprites_by_chrisx698_316
+    21300634: pokemon_hg_ss_sprites_by_chrisx698_317
+    21300636: pokemon_hg_ss_sprites_by_chrisx698_318
+    21300638: pokemon_hg_ss_sprites_by_chrisx698_319
+    21300640: pokemon_hg_ss_sprites_by_chrisx698_320
+    21300642: pokemon_hg_ss_sprites_by_chrisx698_321
+    21300644: pokemon_hg_ss_sprites_by_chrisx698_322
+    21300646: pokemon_hg_ss_sprites_by_chrisx698_323
+    21300648: pokemon_hg_ss_sprites_by_chrisx698_324
+    21300650: pokemon_hg_ss_sprites_by_chrisx698_325
+    21300652: pokemon_hg_ss_sprites_by_chrisx698_326
+    21300654: pokemon_hg_ss_sprites_by_chrisx698_327
+    21300656: pokemon_hg_ss_sprites_by_chrisx698_328
+    21300658: pokemon_hg_ss_sprites_by_chrisx698_329
+    21300660: pokemon_hg_ss_sprites_by_chrisx698_330
+    21300662: pokemon_hg_ss_sprites_by_chrisx698_331
+    21300664: pokemon_hg_ss_sprites_by_chrisx698_332
+    21300666: pokemon_hg_ss_sprites_by_chrisx698_333
+    21300668: pokemon_hg_ss_sprites_by_chrisx698_334
+    21300670: pokemon_hg_ss_sprites_by_chrisx698_335
+    21300672: pokemon_hg_ss_sprites_by_chrisx698_336
+    21300674: pokemon_hg_ss_sprites_by_chrisx698_337
+    21300676: pokemon_hg_ss_sprites_by_chrisx698_338
+    21300678: pokemon_hg_ss_sprites_by_chrisx698_339
+    21300680: pokemon_hg_ss_sprites_by_chrisx698_340
+    21300682: pokemon_hg_ss_sprites_by_chrisx698_341
+    21300684: pokemon_hg_ss_sprites_by_chrisx698_342
+    21300686: pokemon_hg_ss_sprites_by_chrisx698_343
+    21300688: pokemon_hg_ss_sprites_by_chrisx698_344
+    21300690: pokemon_hg_ss_sprites_by_chrisx698_345
+    21300692: pokemon_hg_ss_sprites_by_chrisx698_346
+    21300694: pokemon_hg_ss_sprites_by_chrisx698_347
+    21300696: pokemon_hg_ss_sprites_by_chrisx698_348
+    21300698: pokemon_hg_ss_sprites_by_chrisx698_349
+    21300700: pokemon_hg_ss_sprites_by_chrisx698_350
+    21300702: pokemon_hg_ss_sprites_by_chrisx698_351
+    21300704: pokemon_hg_ss_sprites_by_chrisx698_352
+    21300706: pokemon_hg_ss_sprites_by_chrisx698_353
+    21300708: pokemon_hg_ss_sprites_by_chrisx698_354
+    21300710: pokemon_hg_ss_sprites_by_chrisx698_355
+    21300712: pokemon_hg_ss_sprites_by_chrisx698_356
+    21300714: pokemon_hg_ss_sprites_by_chrisx698_357
+    21300716: pokemon_hg_ss_sprites_by_chrisx698_358
+    21300718: pokemon_hg_ss_sprites_by_chrisx698_359
+    21300720: pokemon_hg_ss_sprites_by_chrisx698_360
+    21300722: pokemon_hg_ss_sprites_by_chrisx698_361
+    21300724: pokemon_hg_ss_sprites_by_chrisx698_362
+    21300726: pokemon_hg_ss_sprites_by_chrisx698_363
+    21300728: pokemon_hg_ss_sprites_by_chrisx698_364
+    21300730: pokemon_hg_ss_sprites_by_chrisx698_365
+    21300732: pokemon_hg_ss_sprites_by_chrisx698_366
+    21300734: pokemon_hg_ss_sprites_by_chrisx698_367
+    21300736: pokemon_hg_ss_sprites_by_chrisx698_368
+    21300738: pokemon_hg_ss_sprites_by_chrisx698_369
+    21300740: pokemon_hg_ss_sprites_by_chrisx698_370
+    21300742: pokemon_hg_ss_sprites_by_chrisx698_371
+    21300744: pokemon_hg_ss_sprites_by_chrisx698_372
+    21300746: pokemon_hg_ss_sprites_by_chrisx698_373
+    21300748: pokemon_hg_ss_sprites_by_chrisx698_374
+    21300750: pokemon_hg_ss_sprites_by_chrisx698_375
+    21300752: pokemon_hg_ss_sprites_by_chrisx698_376
+    21300754: pokemon_hg_ss_sprites_by_chrisx698_377
+    21300756: pokemon_hg_ss_sprites_by_chrisx698_378
+    21300758: pokemon_hg_ss_sprites_by_chrisx698_379
+    21300760: pokemon_hg_ss_sprites_by_chrisx698_380
+    21300762: pokemon_hg_ss_sprites_by_chrisx698_381
+    21300764: pokemon_hg_ss_sprites_by_chrisx698_382
+    21300766: pokemon_hg_ss_sprites_by_chrisx698_383
+    21300768: pokemon_hg_ss_sprites_by_chrisx698_384
+    21300770: pokemon_hg_ss_sprites_by_chrisx698_385
+    21300772: pokemon_hg_ss_sprites_by_chrisx698_386
+    21300774: pokemon_hg_ss_sprites_by_chrisx698_387
+    21300776: pokemon_hg_ss_sprites_by_chrisx698_388
+    21300778: pokemon_hg_ss_sprites_by_chrisx698_389
+    21300780: pokemon_hg_ss_sprites_by_chrisx698_390
+    21300782: pokemon_hg_ss_sprites_by_chrisx698_391
+    21300784: pokemon_hg_ss_sprites_by_chrisx698_392
+    21300786: pokemon_hg_ss_sprites_by_chrisx698_393
+    21300788: pokemon_hg_ss_sprites_by_chrisx698_394
+    21300790: pokemon_hg_ss_sprites_by_chrisx698_395
+    21300792: pokemon_hg_ss_sprites_by_chrisx698_396
+    21300794: pokemon_hg_ss_sprites_by_chrisx698_397
+    21300796: pokemon_hg_ss_sprites_by_chrisx698_398
+    21300798: pokemon_hg_ss_sprites_by_chrisx698_399
+    21300800: pokemon_hg_ss_sprites_by_chrisx698_400
+    21300802: pokemon_hg_ss_sprites_by_chrisx698_401
+    21300804: pokemon_hg_ss_sprites_by_chrisx698_402
+    21300806: pokemon_hg_ss_sprites_by_chrisx698_403
+    21300808: pokemon_hg_ss_sprites_by_chrisx698_404
+    21300810: pokemon_hg_ss_sprites_by_chrisx698_405
+    21300812: pokemon_hg_ss_sprites_by_chrisx698_406
+    21300814: pokemon_hg_ss_sprites_by_chrisx698_407
+    21300816: pokemon_hg_ss_sprites_by_chrisx698_408
+    21300818: pokemon_hg_ss_sprites_by_chrisx698_409
+    21300820: pokemon_hg_ss_sprites_by_chrisx698_410
+    21300822: pokemon_hg_ss_sprites_by_chrisx698_411
+    21300824: pokemon_hg_ss_sprites_by_chrisx698_412
+    21300826: pokemon_hg_ss_sprites_by_chrisx698_413
+    21300828: pokemon_hg_ss_sprites_by_chrisx698_414
+    21300830: pokemon_hg_ss_sprites_by_chrisx698_415
+    21300832: pokemon_hg_ss_sprites_by_chrisx698_416
+    21300834: pokemon_hg_ss_sprites_by_chrisx698_417
+    21300836: pokemon_hg_ss_sprites_by_chrisx698_418
+    21300838: pokemon_hg_ss_sprites_by_chrisx698_419
+    21300840: pokemon_hg_ss_sprites_by_chrisx698_420
+    21300842: pokemon_hg_ss_sprites_by_chrisx698_421
+    21300844: pokemon_hg_ss_sprites_by_chrisx698_422
+    21300846: pokemon_hg_ss_sprites_by_chrisx698_423
+    21300848: pokemon_hg_ss_sprites_by_chrisx698_424
+    21300850: pokemon_hg_ss_sprites_by_chrisx698_425
+    21300852: pokemon_hg_ss_sprites_by_chrisx698_426
+    21300854: pokemon_hg_ss_sprites_by_chrisx698_427
+    21300856: pokemon_hg_ss_sprites_by_chrisx698_428
+    21300858: pokemon_hg_ss_sprites_by_chrisx698_429
+    21300860: pokemon_hg_ss_sprites_by_chrisx698_430
+    21300862: pokemon_hg_ss_sprites_by_chrisx698_431
+    21300864: pokemon_hg_ss_sprites_by_chrisx698_432
+    21300866: pokemon_hg_ss_sprites_by_chrisx698_433
+    21300868: pokemon_hg_ss_sprites_by_chrisx698_434
+    21300870: pokemon_hg_ss_sprites_by_chrisx698_435
+    21300872: pokemon_hg_ss_sprites_by_chrisx698_436
+    21300874: pokemon_hg_ss_sprites_by_chrisx698_437
+    21300876: pokemon_hg_ss_sprites_by_chrisx698_438
+    21300878: pokemon_hg_ss_sprites_by_chrisx698_439
+    21300880: pokemon_hg_ss_sprites_by_chrisx698_440
+    21300882: pokemon_hg_ss_sprites_by_chrisx698_441
+    21300884: pokemon_hg_ss_sprites_by_chrisx698_442
+    21300886: pokemon_hg_ss_sprites_by_chrisx698_443
+    21300888: pokemon_hg_ss_sprites_by_chrisx698_444
+    21300890: pokemon_hg_ss_sprites_by_chrisx698_445
+    21300892: pokemon_hg_ss_sprites_by_chrisx698_446
+    21300894: pokemon_hg_ss_sprites_by_chrisx698_447
+    21300896: pokemon_hg_ss_sprites_by_chrisx698_448
+    21300898: pokemon_hg_ss_sprites_by_chrisx698_449
+    21300900: pokemon_hg_ss_sprites_by_chrisx698_450
+    21300902: pokemon_hg_ss_sprites_by_chrisx698_451
+    21300904: pokemon_hg_ss_sprites_by_chrisx698_452
+    21300906: pokemon_hg_ss_sprites_by_chrisx698_453
+    21300908: pokemon_hg_ss_sprites_by_chrisx698_454
+    21300910: pokemon_hg_ss_sprites_by_chrisx698_455
+    21300912: pokemon_hg_ss_sprites_by_chrisx698_456
+    21300914: pokemon_hg_ss_sprites_by_chrisx698_457
+    21300916: pokemon_hg_ss_sprites_by_chrisx698_458
+    21300918: pokemon_hg_ss_sprites_by_chrisx698_459
+    21300920: pokemon_hg_ss_sprites_by_chrisx698_460
+    21300922: pokemon_hg_ss_sprites_by_chrisx698_461
+    21300924: pokemon_hg_ss_sprites_by_chrisx698_462
+    21300926: pokemon_hg_ss_sprites_by_chrisx698_463
+    21300928: pokemon_hg_ss_sprites_by_chrisx698_464
+    21300930: pokemon_hg_ss_sprites_by_chrisx698_465
+    21300932: pokemon_hg_ss_sprites_by_chrisx698_466
+    21300934: pokemon_hg_ss_sprites_by_chrisx698_467
+    21300936: pokemon_hg_ss_sprites_by_chrisx698_468
+    21300938: pokemon_hg_ss_sprites_by_chrisx698_469
+    21300940: pokemon_hg_ss_sprites_by_chrisx698_470
+    21300942: pokemon_hg_ss_sprites_by_chrisx698_471
+    21300944: pokemon_hg_ss_sprites_by_chrisx698_472
+    21300946: pokemon_hg_ss_sprites_by_chrisx698_473
+    21300948: pokemon_hg_ss_sprites_by_chrisx698_474
+    21300950: pokemon_hg_ss_sprites_by_chrisx698_475
+    21300952: pokemon_hg_ss_sprites_by_chrisx698_476
+    21300954: pokemon_hg_ss_sprites_by_chrisx698_477
+    21300956: pokemon_hg_ss_sprites_by_chrisx698_478
+    21300958: pokemon_hg_ss_sprites_by_chrisx698_479
+    21300960: pokemon_hg_ss_sprites_by_chrisx698_480
+    21300962: pokemon_hg_ss_sprites_by_chrisx698_481
+    21300964: pokemon_hg_ss_sprites_by_chrisx698_482
+    21300966: pokemon_hg_ss_sprites_by_chrisx698_483
+    21300968: pokemon_hg_ss_sprites_by_chrisx698_484
+    21300970: pokemon_hg_ss_sprites_by_chrisx698_485
+    21300972: pokemon_hg_ss_sprites_by_chrisx698_486
+    21300974: pokemon_hg_ss_sprites_by_chrisx698_487
+    21300976: pokemon_hg_ss_sprites_by_chrisx698_488
+    21300978: pokemon_hg_ss_sprites_by_chrisx698_489
+    21300980: pokemon_hg_ss_sprites_by_chrisx698_490
+    21300982: pokemon_hg_ss_sprites_by_chrisx698_491
+    21300984: pokemon_hg_ss_sprites_by_chrisx698_492
+    21300986: pokemon_hg_ss_sprites_by_chrisx698_493
+    21300988: pokemon_hg_ss_sprites_by_chrisx698_494
+    21300990: pokemon_hg_ss_sprites_by_chrisx698_495
+    21300992: pokemon_hg_ss_sprites_by_chrisx698_496
+    21300994: pokemon_hg_ss_sprites_by_chrisx698_497
+    21300996: pokemon_hg_ss_sprites_by_chrisx698_498
+    21300998: pokemon_hg_ss_sprites_by_chrisx698_499
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: pokemon_hg_ss_sprites_by_chrisx698_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_12
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_13
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_17
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_18
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_19
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_21
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_23
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 760
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_32
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_36
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_38
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_39
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_40
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_42
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_43
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_44
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_46
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_47
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_48
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_49
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_57
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_61
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_62
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_63
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_64
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_67
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_68
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_69
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_72
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_73
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_74
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 680
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_77
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_78
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_79
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_82
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_85
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_86
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_88
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_89
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_90
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_91
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_92
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_93
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_94
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_95
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_96
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_97
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_98
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_99
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_105
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_107
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_111
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_113
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_114
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_115
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_117
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_118
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_119
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_120
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_121
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_122
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_123
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_124
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_126
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_131
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_132
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_133
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_135
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_136
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_137
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_138
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_139
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_140
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_141
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_142
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_143
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_144
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_145
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_146
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_147
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_148
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 560
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_151
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_152
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_153
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_154
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_155
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_157
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_158
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_159
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_160
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_161
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_162
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_163
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_164
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_165
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_166
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_167
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_168
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_169
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_170
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_171
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_172
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_173
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_174
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 520
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_176
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_177
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_178
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_180
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_181
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_182
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_183
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_184
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_185
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_186
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_187
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_188
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_189
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_190
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_191
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_192
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_193
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_194
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_195
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_196
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_197
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_198
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_199
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_201
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_202
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_203
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_204
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_205
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_207
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_208
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_209
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_210
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_211
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_212
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_213
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_214
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_215
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_216
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_217
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_218
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_219
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_220
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_221
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_222
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_223
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_224
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_226
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_227
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_228
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_232
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_233
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_234
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_235
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_236
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_237
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_238
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_239
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_240
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_241
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_242
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_243
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_244
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_245
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_246
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_247
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_248
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_249
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 400
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_251
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_252
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_253
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_254
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_255
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_256
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_257
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_258
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_259
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_260
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_261
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_262
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_263
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_264
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_265
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_266
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_267
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_268
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_269
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_270
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_271
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_272
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_273
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_274
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_276
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_277
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_278
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_279
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_280
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_281
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_282
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_283
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_284
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_285
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_286
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_287
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_288
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_289
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_290
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_291
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_292
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_293
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_294
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_295
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_296
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_297
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_298
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_299
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_301
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_302
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_303
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_304
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_305
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_306
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_307
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_308
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_309
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_310
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_311
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_312
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_313
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_314
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_315
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_316
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_317
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_318
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_319
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_320
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_321
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_322
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_323
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_324
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 280
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_325
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_326
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_327
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_328
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_329
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_330
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_331
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_332
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_333
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_334
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_335
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_336
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_337
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_338
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_339
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_340
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_341
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_342
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_343
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_344
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_345
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_346
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_347
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_348
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_349
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_350
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_351
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_352
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_353
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_354
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_355
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_356
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_357
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_358
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_359
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_360
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_361
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_362
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_363
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_364
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_365
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_366
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_367
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_368
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_369
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_370
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_371
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_372
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_373
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_374
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 200
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_375
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_376
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_377
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_378
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_379
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_380
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_381
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_382
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_383
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_384
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_385
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_386
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_387
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_388
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_389
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_390
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_391
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_392
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_393
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_394
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_395
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_396
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_397
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_398
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_399
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 160
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_400
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_401
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_402
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_403
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_404
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_405
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_406
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_407
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_408
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_409
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_410
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_411
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_412
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_413
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_414
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_415
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_416
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_417
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_418
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_419
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_420
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_421
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_422
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_423
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_424
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_425
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_426
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_427
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_428
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_429
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_430
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_431
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_432
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_433
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_434
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_435
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_436
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_437
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_438
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_439
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_440
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_441
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_442
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_443
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_444
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_445
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_446
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_447
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_448
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_449
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 80
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_450
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_451
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_452
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_453
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_454
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_455
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_456
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_457
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_458
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_459
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_460
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_461
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_462
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_463
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_464
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_465
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_466
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_467
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_468
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_469
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_470
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_471
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_472
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_473
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_474
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 40
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_475
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_476
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_477
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_478
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_479
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_480
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_481
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_482
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_483
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_484
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_485
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_486
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_487
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_488
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_489
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_490
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_491
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_492
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_493
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_494
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_495
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_496
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_497
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_498
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pokemon_hg_ss_sprites_by_chrisx698_499
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
