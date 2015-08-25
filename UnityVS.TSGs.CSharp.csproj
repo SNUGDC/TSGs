@@ -69,6 +69,7 @@
     <Compile Include="Assets\Save&amp;LoadScript\SaveLoad.cs" />
     <Compile Include="Assets\Save&amp;LoadScript\UserData.cs" />
     <Compile Include="Assets\Scene\Entry\EntryController.cs" />
+    <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBox.cs" />
     <Compile Include="Assets\Scene\Inventory\InventoryController.cs" />
     <Compile Include="Assets\Scene\Setting\SettingController.cs" />
     <Compile Include="Assets\Scene\Stage\StageController.cs" />
