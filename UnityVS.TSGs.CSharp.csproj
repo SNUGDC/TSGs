@@ -74,8 +74,8 @@
     <Compile Include="Assets\Save&amp;LoadScript\Character.cs" />
     <Compile Include="Assets\Save&amp;LoadScript\SaveLoad.cs" />
     <Compile Include="Assets\Save&amp;LoadScript\UserData.cs" />
-    <Compile Include="Assets\Scene\Entry\EntryController.cs" />
     <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBox.cs" />
+    <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBoxes.cs" />
     <Compile Include="Assets\Scene\Inventory\InventoryController.cs" />
     <Compile Include="Assets\Scene\Setting\SettingController.cs" />
     <Compile Include="Assets\Scene\Stage\StageController.cs" />
@@ -84,6 +84,7 @@
     <Compile Include="Assets\Scene\Title\TitleController.cs" />
     <Compile Include="Assets\Scripts\BallMover.cs" />
     <Compile Include="Assets\Scripts\BarMover.cs" />
+    <Compile Include="Assets\Scripts\BrickBehavior.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2013\UnityVS.CSharp.targets" />

@@ -16,7 +16,7 @@ public class BarMover : MonoBehaviour
     private Camera mainCamera;
     private GameObject characterButton;
     public Slider characterMana;
-    // Use this for initialization
+
     void Start()
     {
         mainCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
@@ -30,7 +30,6 @@ public class BarMover : MonoBehaviour
         currentMana = 0;
     }
 
-    // Update is called once per frame
     void FixedUpdate()
     {
         if (mouseReleased)

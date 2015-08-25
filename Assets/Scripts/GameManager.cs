@@ -15,7 +15,8 @@ public class GameManager : MonoBehaviour {
 	public GameObject ball;
 	public Transform[] startingPosition;
 
-	void Start () {
+	void Start () 
+    {
 		ballExistence = false;
 		ballGenerationStarted = false;
 		readyToFire = false;
@@ -23,7 +24,8 @@ public class GameManager : MonoBehaviour {
 		timeBar = GameObject.Find("TimeBar");
 	}
 
-	void Update () {
+	void Update () 
+    {
 		if (!ballExistence && !ballGenerationStarted)
 		{
 			StartCoroutine("BallGenerationStart");
@@ -85,4 +87,5 @@ public class GameManager : MonoBehaviour {
 			timeBar.GetComponent<Slider>().value = timeLeft / maxTime;
 		}
 	}
+
 }
