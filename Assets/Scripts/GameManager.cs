@@ -88,4 +88,11 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
+    void GameOver()
+    {
+        if (timeLeft < 0)
+        {
+
+        }
+    }
 }

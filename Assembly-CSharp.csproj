@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Save&amp;LoadScript\Character.cs" />
+     <Compile Include="Assets\Save&amp;LoadScript\CharacterData.cs" />
      <Compile Include="Assets\Save&amp;LoadScript\SaveLoad.cs" />
      <Compile Include="Assets\Save&amp;LoadScript\UserData.cs" />
      <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBox.cs" />
@@ -55,6 +56,7 @@
      <Compile Include="Assets\Scene\Setting\SettingController.cs" />
      <Compile Include="Assets\Scene\Stage\StageController.cs" />
      <Compile Include="Assets\Scene\StageSelect\StageSelectController.cs" />
+     <Compile Include="Assets\Scene\StageSelect\StageTransition.cs" />
      <Compile Include="Assets\Scene\Start\StartController.cs" />
      <Compile Include="Assets\Scene\Title\TitleController.cs" />
      <Compile Include="Assets\Scripts\BallMover.cs" />
