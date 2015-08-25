@@ -11,10 +11,10 @@ public class GameManager : MonoBehaviour {
 	private float timeLeft;
 	private float maxTime;
 	private GameObject timeBar;
+	private GameObject ballInstance;
 	public GameObject ball;
-	public GameObject ballInstance;
 	public Transform[] startingPosition;
-	// Use this for initialization
+
 	void Start () {
 		ballExistence = false;
 		ballGenerationStarted = false;
@@ -22,8 +22,7 @@ public class GameManager : MonoBehaviour {
 		timeLeft = maxTime = 60;
 		timeBar = GameObject.Find("TimeBar");
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
 		if (!ballExistence && !ballGenerationStarted)
 		{
@@ -47,7 +46,7 @@ public class GameManager : MonoBehaviour {
 	{
 		GameObject instance = ball;
 		instance.transform.position = startingPosition[startingIndex = Random.Range(0, startingPosition.Length)].position;
-		ballInstance = Instantiate(instance);
+		ballInstance = Instantiate(instance) as GameObject;
 		ballExistence = true;
 		readyToFire = true;
 	}
