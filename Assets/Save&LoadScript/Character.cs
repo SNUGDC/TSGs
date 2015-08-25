@@ -4,10 +4,12 @@ using System.Collections;
 [System.Serializable]
 public class Character : MonoBehaviour
 {
-	public string name;
+	public string Name;
+	public string Skill;
 
 	public Character()
 	{
-		this.name = "";
+		this.Name = "";
+		this.Skill = "";
 	}
 }
