@@ -47,35 +47,32 @@ public class BarMover : MonoBehaviour
 
     IEnumerator DragControl()
     {
-        if (Input.GetMouseButton(0))
-        {
-            mouseReleased = false;
-            Vector2 clickedPosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-            GameObject touchPosition = Instantiate(Spot, clickedPosition, Quaternion.identity) as GameObject;
-            Vector2 originalPosition = transform.position;
-            float xDistance, yDistance;
-            float xPosition, yPosition;
-            while (Input.GetMouseButton(0))
-            {
-                Vector2 draggedPosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
-                xDistance = (draggedPosition.x - clickedPosition.x) * sensitivity;
-                yDistance = (draggedPosition.y - clickedPosition.y) * sensitivity;
-                if (isVertical)
-                {
-                    yPosition = transform.position.y - transform.parent.position.y;
-                    GetComponent<Rigidbody2D>().velocity = new Vector2(0, yDistance);
-                }
-                else
-                {
-                    xPosition = transform.position.x - transform.parent.position.x;
-                    GetComponent<Rigidbody2D>().velocity = new Vector2(xDistance, 0);
-                }
-                yield return new WaitForSeconds(0.1f);
-            }
-            GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
-            mouseReleased = true;
-            Destroy(touchPosition);
-        }
+        if (Input.GetMouseButton (0)) {
+			mouseReleased = false;
+			Vector2 clickedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
+			if ( (clickedPosition.x) < 5.4f && clickedPosition.y > -10.5f && clickedPosition.y < -5.4f) {
+				GameObject touchPosition = Instantiate (Spot, clickedPosition, Quaternion.identity) as GameObject;
+				Vector2 originalPosition = transform.position;
+				float xDistance, yDistance;
+				float xPosition, yPosition;
+				while (Input.GetMouseButton(0)) {
+					Vector2 draggedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
+					xDistance = (draggedPosition.x - clickedPosition.x) * sensitivity;
+					yDistance = (draggedPosition.y - clickedPosition.y) * sensitivity;
+					if (isVertical) {
+						yPosition = transform.position.y - transform.parent.position.y;
+						GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, yDistance);
+					} else {
+						xPosition = transform.position.x - transform.parent.position.x;
+						GetComponent<Rigidbody2D> ().velocity = new Vector2 (xDistance, 0);
+					}
+					yield return new WaitForSeconds (0.1f);
+				}
+				GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, 0);
+				Destroy (touchPosition);
+			}
+			mouseReleased = true;
+		}
     }
 
     void BoundaryCheck()
