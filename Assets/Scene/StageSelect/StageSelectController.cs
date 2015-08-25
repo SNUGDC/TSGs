@@ -1,15 +1,7 @@
 ﻿using UnityEngine;
-using System.Collections;
+using System.Collections.Generic;
 
 public class StageSelectController : MonoBehaviour 
 {
-	public void Back()
-	{
-		Application.LoadLevel ("Start");
-	}
 
-	public void TransferToEntry()
-	{
-		Application.LoadLevel ("Entry");
-	}
 }
