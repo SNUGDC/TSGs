@@ -1,36 +1,48 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
-public class BarMover : MonoBehaviour {
+public class BarMover : MonoBehaviour
+{
 
     private float sensitivity = 5;
     public bool isVertical = false;
     private bool mouseReleased = true;
     public Vector2[] limits = new Vector2[2];
     public GameObject Spot;
-
+    public int entryNumber;
+    private int maxMana;
+    private int currentMana;
     private Camera mainCamera;
-	// Use this for initialization
-	void Start () {
+    private GameObject characterButton;
+    public Slider characterMana;
+    // Use this for initialization
+    void Start()
+    {
         mainCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
+        characterButton = GameObject.Find("Button (" + entryNumber + ")");
+        characterMana = characterButton.transform.GetChild(0).GetComponent<Slider>();
         if (Mathf.Abs(transform.position.x) > Mathf.Epsilon)
         {
             isVertical = true;
         }
-	}
-	
-	// Update is called once per frame
-	void FixedUpdate () 
+        maxMana = 8;
+        currentMana = 0;
+    }
+
+    // Update is called once per frame
+    void FixedUpdate()
     {
-        if(mouseReleased)
+        if (mouseReleased)
         {
             StartCoroutine("DragControl");
         }
-	}
+    }
 
-    void Update ()
+    void Update()
     {
         BoundaryCheck();
+		DrawMana();
     }
 
     IEnumerator DragControl()
@@ -95,5 +107,27 @@ public class BarMover : MonoBehaviour {
                 }
             }
         }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Ball"))
+        {
+            ManaCharge();
+        }
+    }
+
+    void ManaCharge()
+    {
+        currentMana += 1;
+        if (currentMana >= maxMana)
+        {
+            currentMana = 0;
+        }
+    }
+
+    void DrawMana()
+    {
+        characterMana.value = (float)currentMana / maxMana;
     }
 }
