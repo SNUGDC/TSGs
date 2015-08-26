@@ -109,6 +109,11 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
+	public void TransferToStart()
+	{
+		Application.LoadLevel ("Start");
+	}
+
     void PrintGameOver()
     {
         if (timeLeft < 0)
