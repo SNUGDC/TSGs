@@ -11,7 +11,7 @@ public class BarMover : MonoBehaviour
     public Vector2[] limits = new Vector2[2];
     public GameObject Spot;
     public int entryNumber;
-    private int maxMana;
+    public int maxMana;
     private int currentMana;
     private Camera mainCamera;
     private GameObject characterButton;
@@ -28,7 +28,6 @@ public class BarMover : MonoBehaviour
         {
             isVertical = true;
         }
-        maxMana = 8;
         currentMana = 0;
     }
 
@@ -53,7 +52,7 @@ public class BarMover : MonoBehaviour
 			Vector2 clickedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 			if ( (clickedPosition.x) < 5.4f && clickedPosition.y > -10.5f && clickedPosition.y < -5.4f) {
 				GameObject touchPosition = Instantiate (Spot, clickedPosition, Quaternion.identity) as GameObject;
-				Vector2 originalPosition = transform.position;
+				//Vector2 originalPosition = transform.position;
 				float xDistance, yDistance;
 				float xPosition, yPosition;
                 while (Input.GetMouseButton(0) && !gameManager.IsGameEnded())
