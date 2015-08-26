@@ -3,7 +3,8 @@ using System.Collections;
 
 public class BrickBehavior : MonoBehaviour {
 
-    private GameObject Bricks;
+    private GameObject bricks;
+    private GameManager gameManager;
     public int brickHP;
     public Sprite brickImage1;
     public Sprite brickImage2;
@@ -11,10 +12,11 @@ public class BrickBehavior : MonoBehaviour {
     public Sprite brickImage4;
 
 	void Start () {
-        Bricks = GameObject.Find("Bricks");
-        transform.SetParent(Bricks.transform);
+        bricks = GameObject.Find("Bricks");
+        transform.SetParent(bricks.transform);
         brickHP = 3;
         DrawBrick();
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
 	}
 	
 	void Update () 
@@ -34,7 +36,7 @@ public class BrickBehavior : MonoBehaviour {
     {
         if (brickHP == 0)
         {
-            gameObject.SetActive(false);
+            SetInactive();
         }
         else if (brickHP == 1)
         {
@@ -67,6 +69,7 @@ public class BrickBehavior : MonoBehaviour {
     void SetInactive()
     {
         gameObject.SetActive(false);
+        gameManager.CheckGameClear();
     }
 
 }

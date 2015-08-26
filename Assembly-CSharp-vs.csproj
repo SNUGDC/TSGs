@@ -63,6 +63,7 @@
      <Compile Include="Assets\Scripts\BarMover.cs" />
      <Compile Include="Assets\Scripts\BrickBehavior.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\ImageShaker.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -12,28 +12,46 @@ public class GameManager : MonoBehaviour {
 	private float maxTime;
 	private GameObject timeBar;
 	private GameObject ballInstance;
+    private bool isGameOver;
+    private bool isGameClear;
+    private GameObject[] bricks;
+    private GameObject[] enemies;
 	public GameObject ball;
 	public Transform[] startingPosition;
+    public GameObject gameOverImage;
+    public GameObject gameClearImage;
 
 	void Start () 
     {
 		ballExistence = false;
 		ballGenerationStarted = false;
 		readyToFire = false;
-		timeLeft = maxTime = 60;
+        isGameOver = false;
+        isGameClear = false;
+		timeLeft = maxTime = 30;
 		timeBar = GameObject.Find("TimeBar");
+        bricks = GameObject.FindGameObjectsWithTag("Brick");
+        enemies = GameObject.FindGameObjectsWithTag("Enemy");
 	}
 
 	void Update () 
     {
-		if (!ballExistence && !ballGenerationStarted)
-		{
-			StartCoroutine("BallGenerationStart");
-		}
-		SetBall();
-		FireBall();
-		CheckBall();
-		TimeLapse();
+        if (!IsGameEnded())
+        {
+            if (!ballExistence && !ballGenerationStarted)
+            {
+                StartCoroutine("BallGenerationStart");
+            }
+            SetBall();
+            FireBall();
+            CheckBall();
+            TimeLapse();
+            PrintGameOver();
+        }
+        else
+        {
+            PrintGameClear();
+        }
 	}
 	
 	IEnumerator BallGenerationStart()
@@ -46,11 +64,14 @@ public class GameManager : MonoBehaviour {
 	
 	void BallGeneration()
 	{
-		GameObject instance = ball;
-		instance.transform.position = startingPosition[startingIndex = Random.Range(0, startingPosition.Length)].position;
-		ballInstance = Instantiate(instance) as GameObject;
-		ballExistence = true;
-		readyToFire = true;
+        if (!(isGameOver || isGameClear))
+        {
+            GameObject instance = ball;
+            instance.transform.position = startingPosition[startingIndex = Random.Range(0, startingPosition.Length)].position;
+            ballInstance = Instantiate(instance) as GameObject;
+            ballExistence = true;
+            readyToFire = true;
+        }
 	}
 	
 	void SetBall()
@@ -88,11 +109,69 @@ public class GameManager : MonoBehaviour {
 		}
 	}
 
-    void GameOver()
+    void PrintGameOver()
     {
         if (timeLeft < 0)
         {
-
+            gameOverImage.SetActive(true);
+            isGameOver = true;
+            if (ballExistence == true)
+            {
+                Destroy(GameObject.FindWithTag("Ball"));
+            }
         }
+    }
+
+    void PrintGameClear()
+    {
+        if (isGameClear)
+        {
+            gameClearImage.SetActive(true);
+        }
+    }
+
+    public bool IsGameOver()
+    {
+        return isGameOver;
+    }
+
+    public void CheckGameClear()
+    {
+        bool brickClear = true, enemyClear = true;
+        for (int i = 0; i < bricks.Length; i++)
+        {
+            if (bricks[i].activeSelf)
+            {
+                brickClear = false;
+                break;
+            }
+        }
+        
+        if (brickClear)
+        {
+            for (int i = 0; i < enemies.Length; i++)
+            {
+                if (enemies[i].activeSelf)
+                {
+                    enemyClear = false;
+                    break;
+                }
+            }
+        }
+
+        if (brickClear && enemyClear)
+        {
+            isGameClear = true;
+        }
+    }
+
+    public bool IsGameClear()
+    {
+        return isGameClear;
+    }
+
+    public bool IsGameEnded()
+    {
+        return isGameClear || isGameOver;
     }
 }
