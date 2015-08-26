@@ -15,10 +15,12 @@ public class BarMover : MonoBehaviour
     private int currentMana;
     private Camera mainCamera;
     private GameObject characterButton;
+    private GameManager gameManager;
     public Slider characterMana;
 
     void Start()
     {
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         mainCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
         characterButton = GameObject.Find("Button (" + entryNumber + ")");
         characterMana = characterButton.transform.GetChild(0).GetComponent<Slider>();
@@ -41,12 +43,12 @@ public class BarMover : MonoBehaviour
     void Update()
     {
         BoundaryCheck();
-		DrawMana();
+        DrawMana();
     }
 
     IEnumerator DragControl()
     {
-        if (Input.GetMouseButton (0)) {
+        if (Input.GetMouseButton (0) && !gameManager.IsGameEnded()) {
 			mouseReleased = false;
 			Vector2 clickedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 			if ( (clickedPosition.x) < 5.4f && clickedPosition.y > -10.5f && clickedPosition.y < -5.4f) {
@@ -54,7 +56,8 @@ public class BarMover : MonoBehaviour
 				Vector2 originalPosition = transform.position;
 				float xDistance, yDistance;
 				float xPosition, yPosition;
-				while (Input.GetMouseButton(0)) {
+                while (Input.GetMouseButton(0) && !gameManager.IsGameEnded())
+                {
 					Vector2 draggedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 					xDistance = (draggedPosition.x - clickedPosition.x) * sensitivity;
 					yDistance = (draggedPosition.y - clickedPosition.y) * sensitivity;
