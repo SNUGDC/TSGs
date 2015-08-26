@@ -54,17 +54,17 @@ public class BarMover : MonoBehaviour
 				GameObject touchPosition = Instantiate (Spot, clickedPosition, Quaternion.identity) as GameObject;
 				//Vector2 originalPosition = transform.position;
 				float xDistance, yDistance;
-				float xPosition, yPosition;
+				//float xPosition, yPosition;
                 while (Input.GetMouseButton(0) && !gameManager.IsGameEnded())
                 {
 					Vector2 draggedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 					xDistance = (draggedPosition.x - clickedPosition.x) * sensitivity;
 					yDistance = (draggedPosition.y - clickedPosition.y) * sensitivity;
 					if (isVertical) {
-						yPosition = transform.position.y - transform.parent.position.y;
+						//yPosition = transform.position.y - transform.parent.position.y;
 						GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, yDistance);
 					} else {
-						xPosition = transform.position.x - transform.parent.position.x;
+						//xPosition = transform.position.x - transform.parent.position.x;
 						GetComponent<Rigidbody2D> ().velocity = new Vector2 (xDistance, 0);
 					}
 					yield return new WaitForSeconds (0.1f);

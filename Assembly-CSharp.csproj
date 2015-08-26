@@ -66,6 +66,8 @@
      <Compile Include="Assets\Scripts\BallMover.cs" />
      <Compile Include="Assets\Scripts\BarMover.cs" />
      <Compile Include="Assets\Scripts\BrickBehavior.cs" />
+     <Compile Include="Assets\Scripts\EnemyBehavior.cs" />
+     <Compile Include="Assets\Scripts\FairyBehavior.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\ImageShaker.cs" />
      <Compile Include="Assets\Scripts\PauseController.cs" />
