@@ -67,6 +67,7 @@
      <Compile Include="Assets\Scripts\BrickBehavior.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\ImageShaker.cs" />
+     <Compile Include="Assets\Scripts\PauseController.cs" />
      <Compile Include="Assets\Scripts\StageTransitionController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
