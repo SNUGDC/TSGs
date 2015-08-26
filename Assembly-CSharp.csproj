@@ -62,6 +62,7 @@
      <Compile Include="Assets\Scene\StageSelect\StageTransition.cs" />
      <Compile Include="Assets\Scene\Start\StartController.cs" />
      <Compile Include="Assets\Scene\Title\TitleController.cs" />
+     <Compile Include="Assets\Scripts\BackToGame.cs" />
      <Compile Include="Assets\Scripts\BallMover.cs" />
      <Compile Include="Assets\Scripts\BarMover.cs" />
      <Compile Include="Assets\Scripts\BrickBehavior.cs" />
