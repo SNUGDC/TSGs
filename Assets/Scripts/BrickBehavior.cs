@@ -6,6 +6,7 @@ public class BrickBehavior : MonoBehaviour {
     private GameObject bricks;
     private GameManager gameManager;
     public int brickHP;
+    public int brickDamage;
     public Sprite brickImage1;
     public Sprite brickImage2;
     public Sprite brickImage3;
@@ -15,6 +16,7 @@ public class BrickBehavior : MonoBehaviour {
         bricks = GameObject.Find("Bricks");
         transform.SetParent(bricks.transform);
         brickHP = 3;
+        brickDamage = 1;
         DrawBrick();
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
 	}
@@ -62,7 +64,7 @@ public class BrickBehavior : MonoBehaviour {
 
     void TakeDamage()
     {
-        brickHP--;
+        brickHP -= brickDamage;
         DrawBrick();
     }
 
