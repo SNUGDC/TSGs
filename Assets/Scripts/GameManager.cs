@@ -49,7 +49,8 @@ public class GameManager : MonoBehaviour {
             PrintGameOver();
         }
         else
-        {
+        {	
+			UnlockStage2();
             PrintGameClear();
         }
 	}
@@ -169,6 +170,14 @@ public class GameManager : MonoBehaviour {
             isGameClear = true;
         }
     }
+
+	public void UnlockStage2()
+	{
+		if (isGameClear) 
+		{
+			PlayerPrefs.SetInt("Level"+2,1);
+		}
+	}
 
     public bool IsGameClear()
     {
