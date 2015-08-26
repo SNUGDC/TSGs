@@ -5,11 +5,14 @@ using System.Collections;
 public class Character : MonoBehaviour
 {
 	public string Name;
-	public string Skill;
 
 	public Character()
 	{
 		this.Name = "";
-		this.Skill = "";
+	}
+
+	public void skill()
+	{
+
 	}
 }

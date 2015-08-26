@@ -32,7 +32,7 @@ public class BrickBehavior : MonoBehaviour {
         }
     }
 
-    void DrawBrick()
+    public void DrawBrick()
     {
         if (brickHP == 0)
         {
