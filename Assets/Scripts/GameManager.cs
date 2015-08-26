@@ -20,6 +20,7 @@ public class GameManager : MonoBehaviour {
 	public Transform[] startingPosition;
     public GameObject gameOverImage;
     public GameObject gameClearImage;
+	public int level;
 
 	void Start () 
     {
@@ -50,7 +51,7 @@ public class GameManager : MonoBehaviour {
         }
         else
         {	
-			UnlockStage2();
+			UnlockStage();
             PrintGameClear();
         }
 	}
@@ -171,11 +172,12 @@ public class GameManager : MonoBehaviour {
         }
     }
 
-	public void UnlockStage2()
+	public void UnlockStage()
 	{
+		int nextlevel = level + 1;
 		if (isGameClear) 
 		{
-			PlayerPrefs.SetInt("Level"+2,1);
+			PlayerPrefs.SetInt("Level" + nextlevel, 1);
 		}
 	}
 
