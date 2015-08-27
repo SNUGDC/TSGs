@@ -11,7 +11,7 @@ public class BarMover : MonoBehaviour
     public Vector2[] limits = new Vector2[2];
     public GameObject Spot;
     public int entryNumber;
-    private int maxMana;
+    public int maxMana;
     private int currentMana;
     private Camera mainCamera;
     private GameObject characterButton;
@@ -28,7 +28,6 @@ public class BarMover : MonoBehaviour
         {
             isVertical = true;
         }
-        maxMana = 8;
         currentMana = 0;
     }
 
@@ -53,19 +52,19 @@ public class BarMover : MonoBehaviour
 			Vector2 clickedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 			if ( (clickedPosition.x) < 5.4f && clickedPosition.y > -10.5f && clickedPosition.y < -5.4f) {
 				GameObject touchPosition = Instantiate (Spot, clickedPosition, Quaternion.identity) as GameObject;
-				Vector2 originalPosition = transform.position;
+				//Vector2 originalPosition = transform.position;
 				float xDistance, yDistance;
-				float xPosition, yPosition;
+				//float xPosition, yPosition;
                 while (Input.GetMouseButton(0) && !gameManager.IsGameEnded())
                 {
 					Vector2 draggedPosition = mainCamera.ScreenToWorldPoint (Input.mousePosition);
 					xDistance = (draggedPosition.x - clickedPosition.x) * sensitivity;
 					yDistance = (draggedPosition.y - clickedPosition.y) * sensitivity;
 					if (isVertical) {
-						yPosition = transform.position.y - transform.parent.position.y;
+						//yPosition = transform.position.y - transform.parent.position.y;
 						GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, yDistance);
 					} else {
-						xPosition = transform.position.x - transform.parent.position.x;
+						//xPosition = transform.position.x - transform.parent.position.x;
 						GetComponent<Rigidbody2D> ().velocity = new Vector2 (xDistance, 0);
 					}
 					yield return new WaitForSeconds (0.1f);

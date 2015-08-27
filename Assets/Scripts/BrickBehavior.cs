@@ -15,7 +15,6 @@ public class BrickBehavior : MonoBehaviour {
 	void Start () {
         bricks = GameObject.Find("Bricks");
         transform.SetParent(bricks.transform);
-        brickHP = 3;
         brickDamage = 1;
         DrawBrick();
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();

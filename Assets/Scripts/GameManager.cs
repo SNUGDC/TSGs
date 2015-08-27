@@ -14,12 +14,15 @@ public class GameManager : MonoBehaviour {
 	private GameObject ballInstance;
     private bool isGameOver;
     private bool isGameClear;
+    private bool isGameStarted;
     private GameObject[] bricks;
     private GameObject[] enemies;
+    private Camera mainCamera;
 	public GameObject ball;
 	public Transform[] startingPosition;
     public GameObject gameOverImage;
     public GameObject gameClearImage;
+	public int level;
 
 	void Start () 
     {
@@ -28,14 +31,20 @@ public class GameManager : MonoBehaviour {
 		readyToFire = false;
         isGameOver = false;
         isGameClear = false;
-		timeLeft = maxTime = 30;
+        isGameStarted = false;
+		timeLeft = maxTime = 90;
 		timeBar = GameObject.Find("TimeBar");
         bricks = GameObject.FindGameObjectsWithTag("Brick");
         enemies = GameObject.FindGameObjectsWithTag("Enemy");
+        mainCamera = GameObject.Find("Main Camera").GetComponent<Camera>();
 	}
 
 	void Update () 
     {
+        if (!IsGameEnded() && isGameStarted)
+        {
+            TimeLapse();
+        }
         if (!IsGameEnded())
         {
             if (!ballExistence && !ballGenerationStarted)
@@ -45,12 +54,11 @@ public class GameManager : MonoBehaviour {
             SetBall();
             FireBall();
             CheckBall();
-            TimeLapse();
             PrintGameOver();
         }
         else
         {	
-			UnlockStage2();
+			UnlockStage();
             PrintGameClear();
         }
 	}
@@ -85,13 +93,24 @@ public class GameManager : MonoBehaviour {
 	
 	void FireBall()
 	{
-		if(Input.GetMouseButton(1) && readyToFire)
+        if (readyToFire && Input.GetMouseButton(0) && IsMouseOnBoard())
 		{
-			Vector2 velocity = ballInstance.transform.position - startingPosition[startingIndex].parent.transform.position;
+            Vector2 velocity = mainCamera.ScreenToWorldPoint(Input.mousePosition) - startingPosition[startingIndex].parent.transform.position;
+            velocity.Normalize();
 			ballInstance.GetComponent<Rigidbody2D>().velocity = velocity;
 			readyToFire = false;
+            if (!isGameStarted)
+            {
+                isGameStarted = true;
+            }
 		}
 	}
+
+    bool IsMouseOnBoard()
+    {
+        Vector2 clickedPosition = mainCamera.ScreenToWorldPoint(Input.mousePosition);
+        return (Mathf.Abs(clickedPosition.x) < 5) && (clickedPosition.y > -1.5f) && (clickedPosition.y < 7.5f);
+    }
 	
 	void CheckBall()
 	{
@@ -108,11 +127,6 @@ public class GameManager : MonoBehaviour {
 			timeLeft -= Time.deltaTime;
 			timeBar.GetComponent<Slider>().value = timeLeft / maxTime;
 		}
-	}
-
-	public void TransferToStart()
-	{
-		Application.LoadLevel ("Start");
 	}
 
     void PrintGameOver()
@@ -171,11 +185,12 @@ public class GameManager : MonoBehaviour {
         }
     }
 
-	public void UnlockStage2()
+	public void UnlockStage()
 	{
+		int nextlevel = level + 1;
 		if (isGameClear) 
 		{
-			PlayerPrefs.SetInt("Level"+2,1);
+			PlayerPrefs.SetInt("Level" + nextlevel, 1);
 		}
 	}
 

@@ -62,11 +62,16 @@
      <Compile Include="Assets\Scene\StageSelect\StageTransition.cs" />
      <Compile Include="Assets\Scene\Start\StartController.cs" />
      <Compile Include="Assets\Scene\Title\TitleController.cs" />
+     <Compile Include="Assets\Scripts\BackToGame.cs" />
      <Compile Include="Assets\Scripts\BallMover.cs" />
      <Compile Include="Assets\Scripts\BarMover.cs" />
      <Compile Include="Assets\Scripts\BrickBehavior.cs" />
+     <Compile Include="Assets\Scripts\EnemyBehavior.cs" />
+     <Compile Include="Assets\Scripts\FairyBehavior.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\ImageShaker.cs" />
+     <Compile Include="Assets\Scripts\PauseController.cs" />
+     <Compile Include="Assets\Scripts\StageTransitionController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

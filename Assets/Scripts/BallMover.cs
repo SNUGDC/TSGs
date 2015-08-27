@@ -10,7 +10,7 @@ public class BallMover : MonoBehaviour
 	void Start()
 	{
 		radius = GetComponent<CircleCollider2D>().radius;
-		acceleration = 1.1f;
+		acceleration = 0.05f;
 	}
 	
 	void Update()
@@ -49,7 +49,7 @@ public class BallMover : MonoBehaviour
 			ballVelocity.x = (transform.position.x - other.transform.position.x) * Mathf.Abs(ballVelocity.y);
 		}
 		ballVelocity.Normalize();
-		ballVelocity *= acceleration;
+        ballVelocity *= (ballSpeed + acceleration);
 		GetComponent<Rigidbody2D>().velocity = ballVelocity;
 	}
 	
