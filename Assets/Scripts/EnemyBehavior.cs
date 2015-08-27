@@ -5,10 +5,12 @@ public class EnemyBehavior : MonoBehaviour {
 
     public int enemyMaxHP;
     public int enemyDamage;
-    private int enemyCurrentHP;
-    private GameManager gameManager;
+    protected int enemyCurrentHP;
+    protected bool isKnockBacking;
+    [SerializeField]
+    protected GameManager gameManager;
 
-	void Start () {
+	protected void Start () {
         enemyCurrentHP = enemyMaxHP;
         enemyDamage = 1;
         gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
@@ -25,6 +27,8 @@ public class EnemyBehavior : MonoBehaviour {
     void TakeDamage()
     {
         enemyCurrentHP -= enemyDamage;
+        GetComponent<SpriteRenderer>().color = new Color(1, (float)enemyCurrentHP / enemyMaxHP, (float)enemyCurrentHP / enemyMaxHP);
+        StartCoroutine("KnockBack");
         if (enemyCurrentHP <= 0)
         {
             EnemyDefeated();
@@ -36,4 +40,16 @@ public class EnemyBehavior : MonoBehaviour {
         gameObject.SetActive(false);
         gameManager.CheckGameClear();
     }
+
+    IEnumerator KnockBack()
+    {
+        isKnockBacking = true;
+        Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
+        Vector2 nextPosition = transform.position;
+        nextPosition -= velocity / 2;
+        transform.position = nextPosition;
+        yield return new WaitForSeconds(1);
+        isKnockBacking = false;
+    }
+
 }
