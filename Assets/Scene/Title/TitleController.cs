@@ -1,11 +1,19 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-
-public class TitleController : MonoBehaviour 
+namespace TSGs
 {
-	public void TransferToStart()
+	public class TitleController : MonoBehaviour 
 	{
-		Application.LoadLevel ("Start");
+		void Start()
+		{
+			SaveLoad.Save ();
+			SaveLoad.Load ();
+		}
+
+		public void TransferToStart()
+		{
+			Application.LoadLevel ("Start");
+		}
 	}
 }

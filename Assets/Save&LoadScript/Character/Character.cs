@@ -11,7 +11,7 @@ namespace TSGs
 		public Sprite CharacterImage;
 		public GameObject character;
 
-		public void GetSprite()
+		public void Awake()
 		{
 			character.GetComponent<Image>().sprite = CharacterImage;
 		}

@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
 
 namespace TSGs.Inventory
 {
@@ -11,17 +13,26 @@ namespace TSGs.Inventory
 		public GameObject Bar3;
 		public GameObject Bar4;
 
+
 		void Start()
 		{
 			SaveLoad.Load ();
-			if(UserData.CH1 != null)
-			Bar1.AddComponent<Character> ().Name = UserData.CH1.Name;
-			if(UserData.CH2 != null)
-			Bar2.AddComponent<Character> ().Name = UserData.CH2.Name;
-			if(UserData.CH3 != null)
-			Bar3.AddComponent<Character> ().Name = UserData.CH3.Name;
-			if(UserData.CH4 != null)
-			Bar4.AddComponent<Character> ().Name = UserData.CH4.Name;
+			if (UserData.CH1 != null) {
+				Bar1.AddComponent<Character> ().Name = UserData.CH1.Name;
+				Bar1.AddComponent<Character> ().CharacterImage = UserData.CH1.CharacterImage;
+			}
+			if (UserData.CH2 != null) {
+				Bar2.AddComponent<Character> ().Name = UserData.CH2.Name;
+				Bar2.AddComponent<Character> ().CharacterImage = UserData.CH2.CharacterImage;
+			}
+			if (UserData.CH3 != null) {
+				Bar3.AddComponent<Character> ().Name = UserData.CH3.Name;
+				Bar3.AddComponent<Character> ().CharacterImage = UserData.CH3.CharacterImage;
+			}
+			if (UserData.CH4 != null) {
+				Bar4.AddComponent<Character> ().Name = UserData.CH4.Name;
+				Bar4.AddComponent<Character> ().CharacterImage = UserData.CH4.CharacterImage;
+			}
 		}
 
 		void Update()
