@@ -101,6 +101,7 @@
     <Compile Include="Assets\Scripts\ImageShaker.cs" />
     <Compile Include="Assets\Scripts\ParticleDestruction.cs" />
     <Compile Include="Assets\Scripts\PauseController.cs" />
+    <Compile Include="Assets\Scripts\SistersBehavior.cs" />
     <Compile Include="Assets\Scripts\SnowFairyBehavior.cs" />
     <Compile Include="Assets\Scripts\StageTransitionController.cs" />
   </ItemGroup>
