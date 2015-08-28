@@ -1,10 +1,12 @@
 fileFormatVersion: 2
 guid: b52948a2210a68a43976aaa5717cf122
-timeCreated: 1440761062
+timeCreated: 1440764849
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - gameManager: {instanceID: 0}
+  - freezeEffect: {fileID: 172564, guid: 3761b22652da50c469bc5e5cf13ffe37, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

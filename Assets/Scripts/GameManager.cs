@@ -4,7 +4,7 @@ using System.Collections;
 
 public class GameManager : MonoBehaviour {
 	
-	private bool ballExistence;
+	public bool ballExistence;
 	private bool ballGenerationStarted;
 	private int startingIndex;
 	private float timeLeft;

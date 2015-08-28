@@ -6,16 +6,22 @@ public class BallMover : MonoBehaviour
 	
 	private float radius;
 	private float acceleration;
+    public bool isFrozen;
 	
 	void Start()
 	{
 		radius = GetComponent<CircleCollider2D>().radius;
 		acceleration = 0.05f;
+        isFrozen = false;
 	}
 	
 	void Update()
 	{
 		SetBallVelocity();
+        if (isFrozen)
+        {
+            SetBallVelocitySlow();
+        }
 	}
 	
 	void OnTriggerExit2D(Collider2D other)
@@ -91,6 +97,16 @@ public class BallMover : MonoBehaviour
 		}
 		GetComponent<Rigidbody2D>().velocity = ballVelocity;
 	}
+
+    void SetBallVelocitySlow()
+    {
+        if (GetComponent<Rigidbody2D>().velocity.magnitude > 2)
+        {
+            Vector2 ballVelocity = GetComponent<Rigidbody2D>().velocity;
+            ballVelocity = ballVelocity.normalized * 2;
+            GetComponent<Rigidbody2D>().velocity = ballVelocity;
+        }
+    }
 	
 	void BallDestroy()
 	{
