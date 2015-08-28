@@ -5,7 +5,7 @@ public class EnemyBehavior : MonoBehaviour {
 
     public int enemyMaxHP;
     public int enemyDamage;
-    protected int enemyCurrentHP;
+    public int enemyCurrentHP;
     protected bool isKnockBacking;
     [SerializeField]
     protected GameManager gameManager;
