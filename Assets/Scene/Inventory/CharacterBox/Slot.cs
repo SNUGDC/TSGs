@@ -19,8 +19,11 @@ namespace TSGs.Inventory
 
 		public void OnDrop (PointerEventData EventData)
 		{
-			if (!item)
+			if (!item) 
+			{
 				DragController.CharacterBeingDragged.transform.SetParent (transform);
+			}
+
   		}
 	}
 }
