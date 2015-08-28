@@ -1,18 +1,23 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-[System.Serializable]
-public class Character : MonoBehaviour
+namespace TSGs
 {
-	public string Name;
-
-	public Character()
+	[System.Serializable]
+	public class Character : MonoBehaviour
 	{
-		this.Name = "";
-	}
+		public string Name;
+		public Skill _skill;
 
-	public void skill()
-	{
+		public Character()
+		{
+			Name = "";
+			SetSkill ();
+		}
 
+		public void SetSkill()
+		{
+			_skill.Fire1();
+		}
 	}
 }
