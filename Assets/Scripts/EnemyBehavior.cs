@@ -24,6 +24,14 @@ public class EnemyBehavior : MonoBehaviour {
         }
     }
 
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.transform.tag == "Ball")
+		{
+			TakeDamage();
+		}
+	}
+
     void TakeDamage()
     {
         enemyCurrentHP -= enemyDamage;
