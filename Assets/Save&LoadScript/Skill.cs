@@ -10,7 +10,7 @@ public class Skill : MonoBehaviour {
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
 		int blockdamage;
 		Sprite normalball = ball.GetComponent<SpriteRenderer> ().sprite;
-		ball.GetComponent<SpriteRenderer> ().sprite = GetComponent<GameManager> ().fireball;
+		//ball.GetComponent<SpriteRenderer> ().sprite = GetComponent<GameManager> ().fireball;
 		int i;
 		for (i=0; i<bricks.Length; i++) {
 			bricks[i].GetComponent<BrickBehavior> ().brickDamage = 2;

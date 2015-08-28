@@ -51,6 +51,7 @@
      <Compile Include="Assets\Save&amp;LoadScript\Eri.cs" />
      <Compile Include="Assets\Save&amp;LoadScript\Mark.cs" />
      <Compile Include="Assets\Save&amp;LoadScript\SaveLoad.cs" />
+     <Compile Include="Assets\Save&amp;LoadScript\Skill.cs" />
      <Compile Include="Assets\Save&amp;LoadScript\UserData.cs" />
      <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBox.cs" />
      <Compile Include="Assets\Scene\Inventory\CharacterBox\CharacterBoxes.cs" />

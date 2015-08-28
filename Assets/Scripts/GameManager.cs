@@ -6,7 +6,6 @@ public class GameManager : MonoBehaviour {
 	
 	private bool ballExistence;
 	private bool ballGenerationStarted;
-	private bool readyToFire;
 	private int startingIndex;
 	private float timeLeft;
 	private float maxTime;
@@ -23,6 +22,7 @@ public class GameManager : MonoBehaviour {
     public GameObject gameOverImage;
     public GameObject gameClearImage;
 	public int level;
+    public bool readyToFire;
 
 	void Start () 
     {
@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour {
 
 	void Update () 
     {
-        if (!IsGameEnded() && isGameStarted)
+        if (IsGameOnGoing())
         {
             TimeLapse();
         }
@@ -202,5 +202,10 @@ public class GameManager : MonoBehaviour {
     public bool IsGameEnded()
     {
         return isGameClear || isGameOver;
+    }
+
+    public bool IsGameOnGoing()
+    {
+        return !IsGameEnded() && isGameStarted;
     }
 }
