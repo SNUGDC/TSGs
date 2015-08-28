@@ -33,6 +33,14 @@ public class BrickBehavior : MonoBehaviour {
         }
     }
 
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.transform.tag == "Ball")
+		{
+			TakeDamage();
+		}
+	}
+
     public void DrawBrick()
     {
         if (brickHP == 0)

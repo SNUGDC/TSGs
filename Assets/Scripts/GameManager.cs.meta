@@ -1,10 +1,15 @@
 fileFormatVersion: 2
 guid: fc1f97947078b73488529945ae5b306d
-timeCreated: 1439475754
+timeCreated: 1440770332
 licenseType: Free
 MonoImporter:
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - ball: {instanceID: 0}
+  - fireball: {fileID: 21300000, guid: 8f9f5a8330bc18640b249c8af530c0a3, type: 3}
+  - waterball: {fileID: 21300000, guid: 906687f099dee9e429b519acbd7b7176, type: 3}
+  - gameOverImage: {instanceID: 0}
+  - gameClearImage: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
