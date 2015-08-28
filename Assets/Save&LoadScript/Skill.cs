@@ -8,20 +8,24 @@ public class Skill : MonoBehaviour {
 	{
 		GameObject ball = GameObject.FindGameObjectWithTag ("Ball");
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
-		GameObject enemy = GameObject.FindGameObjectWithTag ("Enemy");
+		GameObject[] enemy = GameObject.FindGameObjectsWithTag ("Enemy");
 		Sprite normalball = ball.GetComponent<SpriteRenderer> ().sprite;
 		ball.GetComponent<SpriteRenderer> ().sprite = GameObject.Find ("GameManager").GetComponent<GameManager> ().fireball;
-		int i;
+		int i,j;
 		for (i=0; i<bricks.Length; i++) {
 			bricks[i].GetComponent<BrickBehavior> ().brickDamage = 2;
 		}
-		enemy.GetComponent<EnemyBehavior> ().enemyDamage = 2;
+		for (j=0; j<enemy.Length; j++) {
+			enemy[j].GetComponent<EnemyBehavior> ().enemyDamage = 2;
+		}
 		yield return new WaitForSeconds (5);
 		ball.GetComponent<SpriteRenderer> ().sprite = normalball;
 		for (i=0; i<bricks.Length; i++) {
 			bricks[i].GetComponent<BrickBehavior> ().brickDamage = 1;
 		}
-		enemy.GetComponent<EnemyBehavior> ().enemyDamage = 1;
+		for (j=0; j<enemy.Length; j++) {
+			enemy [j].GetComponent<EnemyBehavior> ().enemyDamage = 1;
+		}
 	}
 
 	public IEnumerator Fire2()
@@ -37,13 +41,15 @@ public class Skill : MonoBehaviour {
 	public IEnumerator Water1()
 	{
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
-		GameObject enemy = GameObject.FindGameObjectWithTag ("Enemy");
-		int i;
+		GameObject[] enemy = GameObject.FindGameObjectsWithTag ("Enemy");
+		int i,j;
 		for (i=0; i<bricks.Length; i++) {
 			bricks [i].GetComponent<BrickBehavior> ().brickHP--;
 			bricks [i].GetComponent<BrickBehavior> ().DrawBrick ();
 		}
-		enemy.GetComponent<EnemyBehavior> ().enemyCurrentHP--;
+		for (j=0; j<enemy.Length; j++) {
+			enemy[j].GetComponent<EnemyBehavior> ().enemyCurrentHP--;
+		}
 		yield return null;
 	}
 
@@ -65,22 +71,23 @@ public class Skill : MonoBehaviour {
 
 	public IEnumerator Grass1()
 	{
-		GameObject timebar = GameObject.Find ("TimeBar");
-		float timeRestore=Time.deltaTime*5;
+		GameManager gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+		float timeRestore=Time.deltaTime*900;
 		float Maxtime=90;
-		float timeLeft = timebar.GetComponent<Slider> ().value*Maxtime;
-		timeLeft = timeLeft + timeRestore;
-		timebar.GetComponent<Slider> ().value = timeLeft / Maxtime;
+		gameManager.timeLeft = gameManager.timeLeft + timeRestore;
+		if (gameManager.timeLeft >= 90) {
+			gameManager.timeLeft = 90;
+		}
 		yield return null;
 	}
 
 	public IEnumerator Glow1()
 	{
-		GameObject timebar = GameObject.Find ("TimeBar");
-		float Maxtime = 90;
-		float timeLeft = timebar.GetComponent<Slider> ().value*Maxtime;
-		timebar.GetComponent<Slider> ().value = timeLeft / Maxtime;
-		yield return new WaitForSeconds (5);
+		GameManager gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
+		for (int i=0; i<=500; i++) {
+			yield return new WaitForSeconds (Time.deltaTime);
+			gameManager.timeLeft += Time.deltaTime;
+		}
 	}
 
 	public IEnumerator Dark1()
