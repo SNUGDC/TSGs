@@ -4,7 +4,7 @@ using System.Collections;
 
 public class Skill : MonoBehaviour {
 
-	IEnumerator Fire1()
+	public IEnumerator Fire1()
 	{
 		GameObject ball = GameObject.FindGameObjectWithTag ("Ball");
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
@@ -24,7 +24,7 @@ public class Skill : MonoBehaviour {
 		enemy.GetComponent<EnemyBehavior> ().enemyDamage = 1;
 	}
 
-	IEnumerator Water1()
+	public IEnumerator Water1()
 	{
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
 		GameObject enemy = GameObject.FindGameObjectWithTag ("Enemy");
@@ -37,7 +37,7 @@ public class Skill : MonoBehaviour {
 		yield return null;
 	}
 
-	IEnumerator Water2()
+	public IEnumerator Water2()
 	{
 		GameObject ball = GameObject.FindGameObjectWithTag ("Ball");
 		Vector3 ballScale = ball.transform.localScale;
@@ -50,21 +50,21 @@ public class Skill : MonoBehaviour {
 		ball.transform.localScale=ballScale;
 	}
 
-	IEnumerator Grass1()
+	public IEnumerator Grass1()
 	{
 		GameObject timebar = GameObject.Find ("TimeBar");
 		float timeRestore=Time.deltaTime*5;
-		float Maxtime=30;
+		float Maxtime=90;
 		float timeLeft = timebar.GetComponent<Slider> ().value*Maxtime;
 		timeLeft = timeLeft + timeRestore;
 		timebar.GetComponent<Slider> ().value = timeLeft / Maxtime;
 		yield return null;
 	}
 
-	IEnumerator Glow1()
+	public IEnumerator Glow1()
 	{
 		GameObject timebar = GameObject.Find ("TimeBar");
-		float Maxtime = 30;
+		float Maxtime = 90;
 		float timeLeft = timebar.GetComponent<Slider> ().value*Maxtime;
 		timebar.GetComponent<Slider> ().value = timeLeft / Maxtime;
 		yield return new WaitForSeconds (5);
