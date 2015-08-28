@@ -24,7 +24,15 @@ public class EnemyBehavior : MonoBehaviour {
         }
     }
 
-    void TakeDamage()
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.transform.tag == "Ball")
+		{
+			TakeDamage();
+		}
+	}
+
+    protected virtual void TakeDamage()
     {
         enemyCurrentHP -= enemyDamage;
         GetComponent<SpriteRenderer>().color = new Color(1, (float)enemyCurrentHP / enemyMaxHP, (float)enemyCurrentHP / enemyMaxHP);

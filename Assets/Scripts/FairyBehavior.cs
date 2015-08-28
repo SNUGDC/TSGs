@@ -3,7 +3,6 @@ using System.Collections;
 
 public class FairyBehavior : EnemyBehavior {
 
-    [SerializeField]
     private GameObject ball;
     private float fairySpeed = 2;
     private GameObject board;
