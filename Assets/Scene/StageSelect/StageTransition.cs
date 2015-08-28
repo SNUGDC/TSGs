@@ -10,6 +10,6 @@ public class StageTransition : MonoBehaviour
 	
 	public void TransferToStage1()
 	{
-		Application.LoadLevel ("Stage1");
+		Application.LoadLevel ("Stage01");
 	}
 }

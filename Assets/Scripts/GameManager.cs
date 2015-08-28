@@ -18,6 +18,7 @@ public class GameManager : MonoBehaviour {
     private GameObject[] enemies;
     private Camera mainCamera;
 	public GameObject ball;
+	public Sprite fireball;
 	public Transform[] startingPosition;
     public GameObject gameOverImage;
     public GameObject gameClearImage;
