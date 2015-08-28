@@ -10,7 +10,7 @@ public class Skill : MonoBehaviour {
 		GameObject[] bricks = GameObject.FindGameObjectsWithTag ("Brick");
 		GameObject enemy = GameObject.FindGameObjectWithTag ("Enemy");
 		Sprite normalball = ball.GetComponent<SpriteRenderer> ().sprite;
-		ball.GetComponent<SpriteRenderer> ().sprite = GetComponent<GameManager> ().fireball;
+		ball.GetComponent<SpriteRenderer> ().sprite = GameObject.Find ("GameManager").GetComponent<GameManager> ().fireball;
 		int i;
 		for (i=0; i<bricks.Length; i++) {
 			bricks[i].GetComponent<BrickBehavior> ().brickDamage = 2;
@@ -22,6 +22,16 @@ public class Skill : MonoBehaviour {
 			bricks[i].GetComponent<BrickBehavior> ().brickDamage = 1;
 		}
 		enemy.GetComponent<EnemyBehavior> ().enemyDamage = 1;
+	}
+
+	public IEnumerator Fire2()
+	{
+		GameObject ball = GameObject.FindGameObjectWithTag ("Ball");
+		Sprite normalball = ball.GetComponent<SpriteRenderer> ().sprite;
+		ball.GetComponent<SpriteRenderer> ().sprite = GameObject.Find ("GameManager").GetComponent<GameManager> ().fireball;
+		ball.GetComponent<CircleCollider2D> ().isTrigger = true;
+		yield return new WaitForSeconds(5);
+		ball.GetComponent<CircleCollider2D> ().isTrigger = false;
 	}
 
 	public IEnumerator Water1()
@@ -40,11 +50,14 @@ public class Skill : MonoBehaviour {
 	public IEnumerator Water2()
 	{
 		GameObject ball = GameObject.FindGameObjectWithTag ("Ball");
+		Sprite normalball = ball.GetComponent<SpriteRenderer> ().sprite;
+		ball.GetComponent<SpriteRenderer> ().sprite = GameObject.Find ("GameManager").GetComponent<GameManager> ().waterball;
 		Vector3 ballScale = ball.transform.localScale;
 		ballScale.x = 2;
 		ballScale.y = 2;
 		ball.transform.localScale=ballScale;
 		yield return new WaitForSeconds (5);
+		ball.GetComponent<SpriteRenderer> ().sprite = normalball;
 		ballScale.x = 1;
 		ballScale.y = 1;
 		ball.transform.localScale=ballScale;
@@ -70,8 +83,42 @@ public class Skill : MonoBehaviour {
 		yield return new WaitForSeconds (5);
 	}
 
-	void Dark1()
+	public IEnumerator Dark1()
 	{
-
+		Transform bar;
+		int entryNum=0;
+		if (entryNum == 1) {
+			bar = GameObject.Find ("LowerBar").transform.FindChild("MagicCircle");
+			Vector3 barScale = bar.localScale;
+			barScale.x = 3;
+			bar.localScale = barScale;
+			yield return new WaitForSeconds (5);
+			barScale.x = 1;
+			bar.localScale = barScale;
+		} else if (entryNum == 2) {
+			bar = GameObject.Find ("RightBar").transform.FindChild("MagicCircle");
+			Vector3 barScale = bar.localScale;
+			barScale.y = 3;
+			bar.localScale = barScale;
+			yield return new WaitForSeconds (5);
+			barScale.y = 1;
+			bar.localScale = barScale;
+		} else if (entryNum == 3) {
+			bar = GameObject.Find ("UpperBar").transform.FindChild("MagicCircle");
+			Vector3 barScale = bar.localScale;
+			barScale.x = 3;
+			bar.localScale = barScale;
+			yield return new WaitForSeconds (5);
+			barScale.x = 1;
+			bar.localScale = barScale;
+		} else if (entryNum == 4) {
+			bar = GameObject.Find ("LeftBar").transform.FindChild("MagicCircle");
+			Vector3 barScale = bar.localScale;
+			barScale.y = 3;
+			bar.localScale = barScale;
+			yield return new WaitForSeconds(5);
+			barScale.y=1;
+			bar.localScale=barScale;
+		}
 	}
 }
