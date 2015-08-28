@@ -32,7 +32,7 @@ public class EnemyBehavior : MonoBehaviour {
 		}
 	}
 
-    void TakeDamage()
+    protected virtual void TakeDamage()
     {
         enemyCurrentHP -= enemyDamage;
         GetComponent<SpriteRenderer>().color = new Color(1, (float)enemyCurrentHP / enemyMaxHP, (float)enemyCurrentHP / enemyMaxHP);
