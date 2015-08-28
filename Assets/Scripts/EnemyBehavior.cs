@@ -49,7 +49,7 @@ public class EnemyBehavior : MonoBehaviour {
         gameManager.CheckGameClear();
     }
 
-    IEnumerator KnockBack()
+    virtual protected IEnumerator KnockBack()
     {
         isKnockBacking = true;
         Vector2 velocity = GetComponent<Rigidbody2D>().velocity;
